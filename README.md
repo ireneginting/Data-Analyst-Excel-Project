@@ -19,14 +19,14 @@ Data mentah (655 baris) memiliki berbagai masalah kualitas data:
 5. **Validation** :cross check seluruh total angka untuk memastikan konsistensi data
 
 ##  Key Finding
-Sembilan transaksi awalnya diasumsikan sebagai missing values pada kolom Qty/Harga Satuan. Setelah ditelusuri lebih lanjut ke data mentah, ternyata data lengkap tersedia pada baris duplikat lain mengindikasikan pentingnya strategi deduplikasi yang mempertimbangkan kelengkapan data, bukan hanya menghapus baris pertama yang ditemukan.
+Sembilan transaksi awalnya diasumsikan sebagai missing values pada kolom Qty/Harga Satuan. Setelah ditelusuri lebih lanjut ke data mentah, ternyata data lengkap tersedia pada baris duplikat lain mennujukkan pentingnya cara deduplikasi yang mempertimbangkan kelengkapan data, tidak hanya menghapus baris pertama yang ditemukan.
 
 ##  Tools & Functions
 Excel : TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Conditional Formatting
 
 ##  Files
 - [Raw Data](raw-data/Soal_Latihan_Excel_Data_Analyst%20%281%29.xlsx) data transaksi mentah (655 baris)
-- [analysis]( hasil cleaning, pivot table, dan visualisasi
+- [analysis](analysis/Latihan_Excel_Data_Analyst%20%281%29.xlsx) hasil cleaning, pivot table, dan grafik
 
 ##  Sample Output
 ![Pivot Table](images/pivot_table.png)
