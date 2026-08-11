@@ -16,7 +16,7 @@ Data mentah (655 baris) memiliki berbagai masalah kualitas data:
 2. **Deduplikasi** : mengurangi 655 baris menjadi 600 order unik
 3. **Data Investigation** : menemukan bahwa 9 transaksi yang awalnya terlihat missing values ternyata datanya tersedia di baris duplikat lain yang ter-filter saat proses deduplikasi awal
 4. **Analysis** : membangun PivotTable & visualisasi untuk penjualan per kategori, kota, dan status order
-5. **Validation** —:cross check seluruh total angka untuk memastikan konsistensi data
+5. **Validation** :cross check seluruh total angka untuk memastikan konsistensi data
 
 ## 💡 Key Finding
 Sembilan transaksi awalnya diasumsikan sebagai missing values pada kolom Qty/Harga Satuan. Setelah ditelusuri lebih lanjut ke data mentah, ternyata data lengkap tersedia pada baris duplikat lain mengindikasikan pentingnya strategi deduplikasi yang mempertimbangkan kelengkapan data, bukan hanya menghapus baris pertama yang ditemukan.
