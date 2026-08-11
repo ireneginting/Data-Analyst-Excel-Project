@@ -29,4 +29,4 @@ Excel : TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Condit
 - `analysis/` hasil cleaning, pivot table, dan visualisasi
 
 ##  Sample Output
-![Pivot Table](pivot_table.png)
+![Pivot Table](images/pivot_table.png)
