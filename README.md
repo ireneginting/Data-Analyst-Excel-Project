@@ -22,7 +22,7 @@ Data mentah (655 baris) memiliki berbagai masalah kualitas data:
 Sembilan transaksi awalnya diasumsikan sebagai missing values pada kolom Qty/Harga Satuan. Setelah ditelusuri lebih lanjut ke data mentah, ternyata data lengkap tersedia pada baris duplikat lain mengindikasikan pentingnya strategi deduplikasi yang mempertimbangkan kelengkapan data, bukan hanya menghapus baris pertama yang ditemukan.
 
 ##  Tools & Functions
-Excel:TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Conditional Formatting
+Excel : TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Conditional Formatting
 
 ##  Files
 - `raw-data/` data transaksi mentah (655 baris)
