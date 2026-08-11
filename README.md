@@ -25,5 +25,5 @@ Sembilan transaksi awalnya diasumsikan sebagai missing values pada kolom Qty/Har
 Excel:TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Conditional Formatting
 
 ## 📁 Files
-- `raw-data/` — data transaksi mentah (655 baris)
-- `analysis/` — hasil cleaning, pivot table, dan visualisasi
+- `raw-data/` data transaksi mentah (655 baris)
+- `analysis/` hasil cleaning, pivot table, dan visualisasi
