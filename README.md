@@ -1,7 +1,7 @@
 # Data Analyst Excel Project
 
 ##  Overview
-Analisis data transaksi e-commerce (600 order unik) menggunakan Microsoft Excel, mencakup proses data cleaning, deduplikasi, dan visualisasi penjualan.
+Analisis data transaksi e-commerce(data dummy) yang memiliki order unik dengan menggunakan Microsoft Excel, mencakup proses data cleaning, deduplikasi, dan visualisasi penjualan.
 
 ##  Problem
 Data mentah (655 baris) memiliki berbagai masalah kualitas data:
