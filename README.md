@@ -27,3 +27,6 @@ Excel : TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Condit
 ##  Files
 - `raw-data/` data transaksi mentah (655 baris)
 - `analysis/` hasil cleaning, pivot table, dan visualisasi
+
+##  Sample Output
+![Pivot Table](nama-file-gambar.png)
