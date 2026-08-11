@@ -26,7 +26,7 @@ Excel : TRIM, SUBSTITUTE, DATEVALUE, XLOOKUP, SUMIF, IFERROR, PivotTable, Condit
 
 ##  Files
 - [Raw Data](raw-data/Soal_Latihan_Excel_Data_Analyst%20%281%29.xlsx) data transaksi mentah (655 baris)
-- `analysis/` hasil cleaning, pivot table, dan visualisasi
+- [analysis]( hasil cleaning, pivot table, dan visualisasi
 
 ##  Sample Output
 ![Pivot Table](images/pivot_table.png)
